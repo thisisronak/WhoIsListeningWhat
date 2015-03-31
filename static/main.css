@@ -1,0 +1,25 @@
+.center {
+  margin-top: 5em;
+  text-align: center;
+}
+.btn-center {
+  margin-top: 5em;
+  text-align: center;
+}
+.url-center{
+  text-align: center;
+}
+.green {
+  color: #088A08;
+}
+.red {
+  color: #8A0808;
+}
+.bordered {
+  border: 2px solid red;
+}
+.urlbox {
+  display: block;
+  text-align: center;
+}
+/* Add a hover css */
